@@ -9,7 +9,7 @@ If encounter any problems, please feel free to contact us via email hu.hui1@nort
 
 Development: Mac OS M1 chip and VSCode as IDE
 
-Train Models: Google Colab GPU
+Train Models: Google Colab GPU: https://colab.research.google.com/drive/16Yyav3JPre6eub0kfssAVFCM_RIn1HnE?usp=sharing
 
 ## Links
 
