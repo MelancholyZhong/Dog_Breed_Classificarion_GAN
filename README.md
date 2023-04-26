@@ -4,6 +4,10 @@ In this project, we explored several topics in deep network using the Stanford D
 
 If encounter any problems, please feel free to contact us via email hu.hui1@northeastern.edu or zhong.yao@northeastern.edu
 
+<p align="center">
+  <img src="your_relative_path_here" width="350" title="hover text">
+</p>
+
 ## Environment
 
 Development: Mac OS M1 chip and VSCode as IDE
@@ -20,9 +24,12 @@ Train Models: Google Colab GPU
 
 - link to trained models: https://drive.google.com/drive/folders/1OapJKpqAgCBH4rUQAdQnR8h-IDvH4_8P?usp=sharing
 
+- link to the dataset: http://vision.stanford.edu/aditya86/ImageNetDogs/
+
+- link to google colab notbook: https://colab.research.google.com/drive/16Yyav3JPre6eub0kfssAVFCM_RIn1HnE?usp=sharing
+
 ## How to run the code
 
-For each file, click run in the IDE or run the python file in terminal
 
 ### Preprocess part
 
@@ -33,3 +40,8 @@ Make sure to have a folder named `stanford-dogs-dataset` to save data of Annotat
 ### Classification part
 
 Run `python image_classification.py` in terminal.
+
+### GAN Part
+
+For each file hit "run" in the GAN, or in the google colab, hit "run" in the code cell
+
