@@ -18,7 +18,7 @@ Train Models: Google Colab GPU
 
 - link to github: https://github.com/Hui-Hwoo/Dog-Breeds-Classification-Generation
 
-- link to trained models:
+- link to trained models: https://drive.google.com/drive/folders/1OapJKpqAgCBH4rUQAdQnR8h-IDvH4_8P?usp=sharing
 
 ## How to run the code
 
