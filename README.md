@@ -25,6 +25,10 @@ Train Models: Google Colab GPU: https://colab.research.google.com/drive/16Yyav3J
 
 - link to google colab notbook: https://colab.research.google.com/drive/16Yyav3JPre6eub0kfssAVFCM_RIn1HnE?usp=sharing
 
+- link to result images: https://drive.google.com/drive/folders/16CnaDY9mZyjdaTgY_I2c8vkQcfbfoByk?usp=sharing
+
+- link to report images: https://drive.google.com/drive/folders/1Lmnuq9a8D9HjRbiQP-Dg4ycUNmHvcx19?usp=sharing
+
 ## How to run the code
 
 
