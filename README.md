@@ -4,9 +4,6 @@ In this project, we explored several topics in deep network using the Stanford D
 
 If encounter any problems, please feel free to contact us via email hu.hui1@northeastern.edu or zhong.yao@northeastern.edu
 
-<p align="center">
-  <img src="your_relative_path_here" width="350" title="hover text">
-</p>
 
 ## Environment
 
